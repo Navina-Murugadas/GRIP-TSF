@@ -7,8 +7,8 @@ Over the past month, I've been engaged in a diverse range of projects, allowing 
 ## Repository Structure
 Within this GitHub repository, you'll find an organized collection of documentation, code, and other resources related to the projects I've undertaken. Here's a concise breakdown of the key components:
 
-### Task
-## GLOBAL TERRORISM - EXPLORATORY DATA ANALYSIS
+## Task:
+### GLOBAL TERRORISM - EXPLORATORY DATA ANALYSIS
 https://github.com/Navina-Murugadas/GRIP-TSF/tree/main/Global_Terrorism_EDA
 
 ## Professional Milestones
