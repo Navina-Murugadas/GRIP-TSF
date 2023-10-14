@@ -9,7 +9,7 @@ Within this GitHub repository, you'll find an organized collection of documentat
 
 ### Task
 ## GLOBAL TERRORISM - EXPLORATORY DATA ANALYSIS
-
+https://github.com/Navina-Murugadas/GRIP-TSF/tree/main/Global_Terrorism_EDA
 
 ## Professional Milestones
 During my professional internship, I've made substantial advancements in the field of data analysis. This journey involved:
